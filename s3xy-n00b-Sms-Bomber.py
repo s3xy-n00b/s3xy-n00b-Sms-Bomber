@@ -4,7 +4,7 @@
 # This tool is only for educational purpose only! 
 
 
-print("""
+banner=("""
 		::::::::::::::::::::::::::::::::::::::
 		:       E M A I L   B O M B E R      :
 		:------------------------------------:
