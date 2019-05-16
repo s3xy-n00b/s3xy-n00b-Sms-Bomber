@@ -23,7 +23,7 @@ except ModuleNotFoundError:
 os.system('clear')
 print(banner)
 no = input("\033[1;37mEnter The Target Number =>\033[1;32m")
-tot = int(input("\033[1;37Number of SMS =>\033[1;32m"))
+tot = int(input("\033[1;37NNumber of SMS =>\033[1;32m"))
 spam = {'msisdn':no}
 idk = '200'
 def main(arg):
