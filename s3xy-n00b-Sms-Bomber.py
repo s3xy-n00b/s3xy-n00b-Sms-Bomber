@@ -6,7 +6,7 @@
 
 banner=("""
 		::::::::::::::::::::::::::::::::::::::
-		:       E M A I L   B O M B E R      :
+		:         S M S   B O M B E R        :
 		:------------------------------------:
 		:       Author :   S3XY N00B         :
 		: Contact : https://m.me/s3xy.n00b.1 :
