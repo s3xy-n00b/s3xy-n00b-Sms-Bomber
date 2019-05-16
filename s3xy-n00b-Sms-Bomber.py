@@ -3,7 +3,14 @@
 # Author : s3xy_n00b
 # This tool is only for educational purpose only! 
 
-print("""		::::::::::::::::::::::::::::::::::::::		:\033[1;36m E M A I L B O M B E R :		:------------------------------------:		: \033[1;32mAuthor : S3XY N00B \033[1;36m :		: \033[1;31mContact : https://m.me/s3xy.n00b.1 :		:::::::::::::::::::::::::::::::::::::: """)
+
+print("""
+		::::::::::::::::::::::::::::::::::::::
+		:       E M A I L   B O M B E R      :
+		:------------------------------------:
+		:       Author :   S3XY N00B         :
+		: Contact : https://m.me/s3xy.n00b.1 :
+		:::::::::::::::::::::::::::::::::::::: """)
 
 from multiprocessing.pool import ThreadPool
 try:
